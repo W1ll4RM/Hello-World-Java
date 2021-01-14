@@ -1,5 +1,3 @@
-package dungeon;
-
 import java.io.*;
 import java.util.NoSuchElementException;
 import java.util.Random;
